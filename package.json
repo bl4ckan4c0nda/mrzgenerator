@@ -1,0 +1,30 @@
+{
+  "name": "mrzgenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl4ckan4c0nda/mrzgenerator.git"
+  },
+  "keywords": [
+    "generate",
+    "mrz",
+    "mrz",
+    "generator",
+    "mrz"
+  ],
+  "author": "dnacc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bl4ckan4c0nda/mrzgenerator/issues"
+  },
+  "homepage": "https://github.com/bl4ckan4c0nda/mrzgenerator#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.21.1"
+  }
+}
